@@ -1,4 +1,4 @@
- 👋 Hi, I'm tami
+ 👋 Hi, I'm Efrat Segev
 
 💻 Junior Software Developer with formal training in software development and a strong logical mindset.  
 Experienced in building projects using **Python, Flask, and JavaScript**, including working with **RESTful APIs**.  
