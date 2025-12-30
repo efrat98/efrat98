@@ -88,4 +88,3 @@ An interactive logic-based game developed on the frontend.
 - English: Good level  
 
 
- קכרש
