@@ -48,7 +48,7 @@ A full-stack online store system that allows product browsing, cart management, 
 
 ---
 
-### 🎯 Bulls and Cows Game (Logic Game) | 2024
+### 🎯 Mastermind-js-Game | 2024
 An interactive logic-based game developed on the frontend.
 
 **Highlights:**
